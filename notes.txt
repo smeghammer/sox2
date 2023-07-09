@@ -1,0 +1,31 @@
+ - remove megasphere (leave backpack)						OK
+ - make plasma gun a secret							OK
+ - sort out adjacent secrets							OK
+ - only 1 RL									OK
+ - only 1 plasma gun!								OK
+ - sort exit, part 1 (switch at bottom, opens RH exit thingie)
+ - better indicate WTF happens with the LH button in L2 (scripted text?)	Hmmm. did open teh pinkie secret with backpack. Do something else
+ - finish sector portals! (remove midtex from portal border)
+
+basement -> cave portals:
+https://www.dfdoom.com/gzdoom-portal-tutorial/
+
+LOWER				UPPER
+-------------------------------------
+L,80,6,1,0,0			L,80,6,1,1,0
+R,79,6,0,1,0			R,79,6,0,0,0
+
+L,82,6,1,0,0			L,82,6,1,1,0
+R,81,6,0,1,0			R,81,6,0,0,0
+
+L,84,6,1,0,0			L,84,6,1,1,0
+R,83,6,0,1,0			R,83,6,0,0,0
+
+ - trigger more monsters on killing the two HKs? - actually a linedef W1	OK
+ - Make imps also spawnr in main basement area (to make a 2-way trap)		OK
+ - add a blocker to stop running off edge of pathway!				OK
+ - trigger more monsters on raising the final lift (mancs, PEs?)		OK		
+ - imps on blue plats, ground floor?						OK
+ - block monsters for HK in red secret area					OK
+ - armour etc. in basement secret						OK
+
