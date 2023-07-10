@@ -1,0 +1,2 @@
+ - flagged a bunch of lines as not visible on automap (monster closets, line portal exits)
+ - implemented difficulties. Might be a bit much on UV 
